@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Feb 11 01:16:28 EST 2012
+default-http\://repo1.maven.org/maven2/.lastUpdated=1328940988546
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.springframework\:spring-parent\:pom\:3.0.6.RELEASE from/to central (http\://repo1.maven.org/maven2)\: Failed to transfer http\://repo1.maven.org/maven2/org/springframework/spring-parent/3.0.6.RELEASE/spring-parent-3.0.6.RELEASE.pom. Error code 416, Requested Range Not Satisfiable

@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Mar 10 15:27:15 EST 2012
+default-http\://repo1.maven.org/maven2/.lastUpdated=1331411235737
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.springframework.security\:spring-security-parent\:pom\:3.0.6.RELEASE from/to central (http\://repo1.maven.org/maven2)\: Failed to transfer http\://repo1.maven.org/maven2/org/springframework/security/spring-security-parent/3.0.6.RELEASE/spring-security-parent-3.0.6.RELEASE.pom. Error code 416, Requested Range Not Satisfiable
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1331411235274
+https\://repository.jboss.org/nexus/content/groups/public/.error=

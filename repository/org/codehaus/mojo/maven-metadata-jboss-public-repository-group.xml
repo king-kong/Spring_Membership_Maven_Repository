@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Build Number Maven Plugin</name>
+      <prefix>buildnumber</prefix>
+      <artifactId>buildnumber-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Exec Maven Plugin</name>
+      <prefix>exec</prefix>
+      <artifactId>exec-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven GWT Plugin</name>
+      <prefix>gwt</prefix>
+      <artifactId>gwt-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>Maven 2 Javacc Plugin</name>
+      <prefix>javacc</prefix>
+      <artifactId>javacc-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>JBoss Packaging Maven Plugin</name>
+      <prefix>jboss-packaging</prefix>
+      <artifactId>jboss-packaging-maven-plugin</artifactId>
+    </plugin>
+    <plugin>
+      <name>License Maven Plugin</name>
+      <prefix>license</prefix>
+      <artifactId>license-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
